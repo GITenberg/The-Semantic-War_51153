@@ -1,0 +1,35 @@
+_repo: The-Semantic-War_51153
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wes
+    gutenberg_agent_id: '48957'
+    url: http://www.gutenberg.org/2009/agents/48957
+creator:
+  author:
+    agent_name: Clothier, Bill
+    alias: Clothier, William Ernest
+    birthdate: 1921
+    deathdate: 2015
+    gutenberg_agent_id: '46265'
+    url: http://www.gutenberg.org/2009/agents/46265
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51153'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Philosophers -- Fiction'
+- !lcsh 'War stories'
+- !lcsh 'College teachers -- Fiction'
+- GITenberg
+title: The Semantic War
+url: http://www.gutenberg.org/ebooks/51153
