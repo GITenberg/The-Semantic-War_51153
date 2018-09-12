@@ -1,10 +1,13 @@
 _repo: The-Semantic-War_51153
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Wes
     gutenberg_agent_id: '48957'
     url: http://www.gutenberg.org/2009/agents/48957
+covers:
+- cover_type: archival
+  image_path: 51153-h/images/cover.jpg
 creator:
   author:
     agent_name: Clothier, Bill
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '46265'
     url: http://www.gutenberg.org/2009/agents/46265
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51153#The-Semantic-War
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-02-08'
 gutenberg_type: Text
